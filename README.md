@@ -1,3 +1,9 @@
+# Demo:
+1. Show 404 not found: IF no page it shows THIS (404)
+2. Show Design on "jewelry-nyc-demo-sk/"
+3. Show dev Demo: ability to browse through different jewelry and "Try on"
+4. Show ecom. Demo: ability to check out through the cart process from A-Z 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
