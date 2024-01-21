@@ -27,13 +27,6 @@ const main = () => {
 
                         <div className="mt-8 flex flex-wrap gap-4 text-center">
                             <a
-                                href="/dev"
-                                className="block w-full rounded bg-gray-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-gray-700 focus:outline-none focus:ring active:bg-gray-500 sm:w-auto"
-                            >
-                                dev. demo
-                            </a>
-
-                            <a
                                 href="/ecom"
                                 className="block w-full rounded bg-white px-12 py-3 text-sm font-medium text-gray-600 shadow hover:text-gray-700 focus:outline-none focus:ring active:text-gray-500 sm:w-auto"
                             >
